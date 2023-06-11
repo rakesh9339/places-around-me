@@ -170,8 +170,16 @@ Pandi kovil was located in madurai, the main lord of this temple "pandi muniswar
 ```
 
 ## Output:
+![web 1](https://github.com/rakesh9339/places-around-me/assets/121115650/d018426a-f0eb-4f9b-af71-778488612d67)
+![web 2](https://github.com/rakesh9339/places-around-me/assets/121115650/2634f1eb-f474-4de0-8f7a-2eb7fcad1463)
+![web 3](https://github.com/rakesh9339/places-around-me/assets/121115650/007507dd-6a9d-477b-8b41-bedece2fe28b)
+![web 4](https://github.com/rakesh9339/places-around-me/assets/121115650/d5ba2784-3f2f-4979-8b3c-ed6de16450fa)
+![web 5](https://github.com/rakesh9339/places-around-me/assets/121115650/f3d38e27-8f84-4166-b478-623129ead5e3)
+![web 6](https://github.com/rakesh9339/places-around-me/assets/121115650/3497fb11-0dfe-4f05-b607-a615ce48c8fb)
+
 
 ## HTML validator
+![web 7](https://github.com/rakesh9339/places-around-me/assets/121115650/29546134-f87e-423f-9c8d-cd1217b12490)
 
 
 
